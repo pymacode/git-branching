@@ -1,2 +1,2 @@
-console.log("Hello!!!xDD");
+console.log("Hello!!!");
 console.log("World");
