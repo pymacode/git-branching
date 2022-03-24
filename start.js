@@ -1,3 +1,2 @@
-console.log("Hello!xD");
-console.log("World!");
-console.log("2022!");
+console.log("Hello!");
+console.log("World, 2022");
